@@ -87,11 +87,11 @@ Jika tertarik kolaborasi, kirim pesan ke:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaladiatma&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufxAlbana&theme=tokyonight" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbaladiatma&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufxAlbana&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaladiatma&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufxAlbana&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
