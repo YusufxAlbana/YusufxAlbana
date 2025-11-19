@@ -17,18 +17,15 @@
 
 ## 👋 Tentang Saya
 
-Saya **Iqbal Muhammad Adiatma** — Full-Stack Developer, Blockchain Engineer, dan spesialis Fintech. Menggabungkan keahlian teknis dengan prinsip etika dan kepatuhan Syariah untuk membangun solusi keuangan yang aman dan bertanggung jawab. Juga seorang **Qur'an Hafizh** — nilai integritas dan amanah saya bawa ke setiap proyek.
+Saya **Yusuf Nawaf Albana** — Full-Stack Developer. Saya berfokus pada pembangunan solusi teknologi yang modern, bersih, dan scalable. Dengan keahlian dalam Laravel, saya mampu merancang dan membangun website yang aman, efisien, serta mudah dikembangkan. Saya mengutamakan kualitas kode, performa, dan pengalaman pengguna untuk menghasilkan sistem yang stabil dan dapat diandalkan di berbagai skala proyek.
 
 ---
 
 ## 🛠 Keahlian Inti
 
-* **Blockchain & Smart Contracts:** Solidity, Ethereum, Hyperledger
-* **Backend & Infra:** Node.js, Express, GraphQL, MongoDB, Kubernetes, Docker
-* **Fintech & Integrasi:** Payment gateways, SWIFT, compliance (PCI-DSS)
-* **DevOps & Messaging:** RabbitMQ, Redis, CI/CD pipelines
-* **Tools:** Truffle, Web3.js, Hardhat
-
+* **Backend:** Laravel, PHP, REST API, Authentication & Authorization
+* **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+* **Website Features:** CRUD system, dashboard admin, role-based access, API integration
 ---
 
 ## 🚀 Proyek Unggulan (ringkas)
@@ -81,9 +78,9 @@ contract Profile {
 
 Jika tertarik kolaborasi, kirim pesan ke:
 
-* Email: `iqbal@halaltech.dev`
+* Email: `yusufnawafalbana2009@gmail.com`
 * Telegram: [@iqbaladiatma](https://t.me/iqbaladiatma)
-* LinkedIn: [iqbaladiatma](https://linkedin.com/in/iqbaladiatma)
+* LinkedIn: [YusufNawafAlbana](https://www.linkedin.com/in/yusuf-nawaf-albana-1b493931b/)
 
 ---
 
