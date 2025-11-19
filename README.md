@@ -99,7 +99,7 @@ Jika tertarik kolaborasi, kirim pesan ke:
 ## 🏆 GitHub Profile Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqbaladiatma" alt="iqbaladiatma trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YusufxAlbana" alt="YusufxAlbana trophies" />
 </div>
 
 ---
