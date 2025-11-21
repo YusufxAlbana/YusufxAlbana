@@ -1,8 +1,12 @@
 # ✨ Assalamu’alaikum Warahmatullahi Wabarakatuh!
 
-<img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/444/original/7fa6a3075b0e9f9c.png" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/353/static/05b4c13697638c85.png" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/504/original/03eb476c9b5831c1.png" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/571/original/3bf6887e36df7389.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/567/original/df32a7319175da7c.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/589/original/da9c85a2a8fe89ee.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/674/original/b1ac2c0570441f83.png" alt="alt text" width="25">
+<div align="center">
+  
+<img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/353/static/05b4c13697638c85.png" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/504/original/03eb476c9b5831c1.png" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/571/original/3bf6887e36df7389.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/567/original/df32a7319175da7c.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/589/original/da9c85a2a8fe89ee.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/674/original/b1ac2c0570441f83.png" alt="alt text" width="25">
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&width=700&lines=Full-Stack+Developer;Blockchain+Engineer;Fintech+Specialist;Qur'an+Hafizh" alt="Typing Header">
+</div>
+
 </div>
 
 <p align="center">
