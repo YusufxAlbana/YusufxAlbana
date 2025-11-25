@@ -4,7 +4,7 @@
 <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/353/static/05b4c13697638c85.png" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/504/original/03eb476c9b5831c1.png" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/571/original/3bf6887e36df7389.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/567/original/df32a7319175da7c.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/589/original/da9c85a2a8fe89ee.gif" alt="alt text" width="25"> <img src="https://pool.jortage.com/bcommoe/custom_emojis/images/000/055/674/original/b1ac2c0570441f83.png" alt="alt text" width="25">
 <div align="center">
 <p align="center">
-  <a href="https://wakatime.com/@Kiri_Yusuf"><img src="https://wakatime.com/badge/user/80511dd2-bcc5-44be-893c-a0de3451278d.svg" alt="My coding Time" /></a>
+<a href="https://wakatime.com/@ac23b0d0-31c6-423c-930d-d01b1af01887"><img src="https://wakatime.com/badge/user/ac23b0d0-31c6-423c-930d-d01b1af01887.svg" alt="Total time coded since Nov 21 2025" /></a>
 </p>
 </div>
 
