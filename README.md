@@ -58,28 +58,6 @@ Saya **Yusuf Nawaf Albana** — Full-Stack Developer. Saya berfokus pada pembang
 * Juara 2023 Ethical Tech Awards.
 * \[Video / Repo — tambahkan link]
 
-### Payment Gateway Middleware
-
-`Stack:` Node.js · Redis · Kubernetes
-
-* Pengolahan transaksi skala besar (>\$1M), PCI-DSS compliant, SLA tinggi.
-* \[Repo / Case study — tambahkan link]
-
----
-
-## 📦 Contoh Snippet (Solidity)
-
-```solidity
-// Minimal profile snippet
-pragma solidity ^0.8.0;
-
-contract Profile {
-    string public name = "Iqbal Muhammad Adiatma";
-    string public role = "Blockchain & Fintech Engineer";
-}
-```
-
----
 
 ## 📚 Roadmap Singkat
 
@@ -103,10 +81,6 @@ Jika tertarik kolaborasi, kirim pesan ke:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufxAlbana&theme=tokyonight" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufxAlbana&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufxAlbana&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
