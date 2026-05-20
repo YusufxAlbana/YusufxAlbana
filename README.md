@@ -20,11 +20,8 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/iqbaladiatma" target="_blank">
+  <a href="https://www.linkedin.com/in/yusuf-nawaf-albana-1b493931b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/iqbaladiatma" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
@@ -72,7 +69,6 @@ Saya **Yusuf Nawaf Albana** — Full-Stack Developer. Saya berfokus pada pembang
 Jika tertarik kolaborasi, kirim pesan ke:
 
 * Email: `yusufnawafalbana2009@gmail.com`
-* Telegram: [@iqbaladiatma](https://t.me/iqbaladiatma)
 * LinkedIn: [YusufNawafAlbana](https://www.linkedin.com/in/yusuf-nawaf-albana-1b493931b/)
 
 ---
